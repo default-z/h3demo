@@ -1,5 +1,5 @@
 <template>
-
+<div>这是新世界</div>
 </template>
 
 <script>
