@@ -1,6 +1,6 @@
 <template>
     <div>这是新世界</div>
-    <h2>778899</h2>
+    <h2>77889900</h2>
 </template>
 
 <script>
